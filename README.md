@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="podcastr" title="podcastr" src=".github/logo.png" />
+  <strong> Podcastr </strong>
 </h1>
 
 <p align="center">
@@ -10,9 +10,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="Podcastr" src=".github/podcastr.png" width="100%">
-</p>
 
 ## ✨ Tecnologias
 
@@ -24,11 +21,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O podcastr é um app para reprodução de episódios em áudio do seu podcast favorito.
+O podcastr é um app que simula podcast utilizando uma fake api para fazer as requisições.
 
-## 🔖 Layout
+## 🔖 O que aprendi
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr/duplicate). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
+Durante a construção desse projeto, os pontos mais importantes foram o entendimento dos conceitos de SPA, SSR e SSG, o conceito de context api's, scss modules o apimoramento do meu conhecimento de Typescript e Reacjs.
 
 ## 🚀 Como executar
 
@@ -45,4 +42,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by Rocketseat 👋🏻 [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Esse projeto foi desenvolvido durante a NLW 05 promovida pela RocketSeat, vocês são fodas!
